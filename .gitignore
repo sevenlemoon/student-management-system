@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Java
+server/target/
+*.class
+
+# Node.js
+web/node_modules/
+web/dist/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# SQL
+*.sql
+!db_init.sql
+!generate_data.sql
